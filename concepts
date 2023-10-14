@@ -1,0 +1,13 @@
+Abrir o terminal do windows PowerShell ou Terminal
+
+Escolher a pasta de destino de criação do ambiente.
+
+Executar o comando python -m venv e dar o nome a pasta do novo ambiente virtual.
+
+Para ativar o novo ambiente virtual 
+
+Digite cd (change drive) para acessar a pasta Scripts e o seu caminho completo
+
+Digite activate para ativar o novo ambiente virtual criado.
+
+Note que no início do link vai ser alterado para (nome do novo ambiente) em que o python vai rodar a interpretação.
